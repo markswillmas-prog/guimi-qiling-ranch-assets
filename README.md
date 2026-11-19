@@ -12,5 +12,6 @@ Jumping Blob 由 Jordan Irwin（AntumDeluge）制作，采用 CC0。
 - index.json 汇总契灵阶段、待机与行走帧参数及署名。
 - sprite/ 和 placeholder/ 保存原素材与通用占位。
 - spritecollab/ 保存牧场使用的上游帧图和原署名，作者表保留相关条目。
-- stage-atlases/ 保存补齐的 151 个阶段实际使用的帧图，来源见索引中的署名字段。
+- digimon-world-ds/ 保存《数码宝贝世界 DS》的地图原图与对应帧表。sources.json 记录发布页、上传者、帧表版本和原图 SHA-256。
+- stage-atlases/ 保存牧场实际加载的透明帧图。每个文件以内容的 SHA-256 命名，来源见索引中的署名字段。
 - background/ranch.webp 为牧场底图。

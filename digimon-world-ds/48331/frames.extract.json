@@ -1,0 +1,144 @@
+{
+  "anchor": "bottom_center",
+  "background": null,
+  "background_mode": "alpha",
+  "background_tolerance": 8,
+  "boxes": [
+    {
+      "id": "b5",
+      "x": 551,
+      "y": 205,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "id": "b6",
+      "x": 629,
+      "y": 205,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "id": "b7",
+      "x": 707,
+      "y": 205,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "id": "b10",
+      "x": 551,
+      "y": 274,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "id": "b11",
+      "x": 629,
+      "y": 274,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "id": "b12",
+      "x": 707,
+      "y": 274,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "id": "b13",
+      "x": 551,
+      "y": 343,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "id": "b14",
+      "x": 629,
+      "y": 343,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "id": "b15",
+      "x": 707,
+      "y": 343,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "id": "b22",
+      "x": 551,
+      "y": 412,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "id": "b23",
+      "x": 629,
+      "y": 412,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "id": "b24",
+      "x": 707,
+      "y": 412,
+      "w": 64,
+      "h": 64
+    }
+  ],
+  "clips": {
+    "idle": [],
+    "sleep": [],
+    "walk": {
+      "down_left": [
+        "b10",
+        "b11",
+        "b12"
+      ],
+      "down_right": [
+        "b22",
+        "b23",
+        "b24"
+      ],
+      "up_left": [
+        "b5",
+        "b6",
+        "b7"
+      ],
+      "up_right": [
+        "b13",
+        "b14",
+        "b15"
+      ]
+    }
+  },
+  "creature_color": "0x8899AA",
+  "creature_name": "Azulongmon",
+  "creature_stage": 6,
+  "creature_type": "Data",
+  "diagonals": true,
+  "export_scale": 2,
+  "id": 168,
+  "idle_frame_ms": 300,
+  "mirror": {},
+  "notes": "",
+  "pad": 1,
+  "seg_params": {
+    "extra_bg": [],
+    "tol": 8
+  },
+  "sheet_id": "48331",
+  "sleep_frame_ms": 400,
+  "source": "raw_sheets/48331.png",
+  "spec_version": 1,
+  "species": "digimon",
+  "tick_ms": 33,
+  "trim": true,
+  "walk_durations": [
+    6
+  ],
+  "walk_style": "stride"
+}

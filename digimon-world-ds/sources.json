@@ -1,0 +1,371 @@
+{
+  "海龙兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/48602/",
+    "originalName": "Seadramon",
+    "uploader": "redblueyellow",
+    "file": "48602/original.png",
+    "frameTable": "48602/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/097.extract.json",
+    "sha256": "e3ae43c3590beae31881287be6a2b25083a616786801e82fae427d18096aa361"
+  },
+  "奇美拉兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/48436/",
+    "originalName": "Kimeramon",
+    "uploader": "redblueyellow",
+    "file": "48436/original.png",
+    "frameTable": "48436/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/130.extract.json",
+    "sha256": "3765414fdbdbb3386c92b47144457900753bfeb3f02b6ac3ed20fb232e3e9c4a"
+  },
+  "九尾兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/48589/",
+    "originalName": "Kyubimon",
+    "uploader": "RadSpyro",
+    "file": "48589/original.png",
+    "frameTable": "48589/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/085.extract.json",
+    "sha256": "4d9d9f4b9dc9644238e161e20ab9560a50d99ad74520b9d7a3f001ce3c5d0620"
+  },
+  "百万龙兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/48682/",
+    "originalName": "Megadramon",
+    "uploader": "RadSpyro",
+    "file": "48682/original.png",
+    "frameTable": "48682/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/140.extract.json",
+    "sha256": "c78d92d3baf26eef47041cad9f9d441acdf7f41df2928845f8743c20551df51d"
+  },
+  "虫蛹兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/48616/",
+    "originalName": "Kurisarimon",
+    "uploader": "redblueyellow",
+    "file": "48616/original.png",
+    "frameTable": "48616/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/083.extract.json",
+    "sha256": "6a7792f605b1a5d2aae4939cf797ba8d4bd84f921f2b0c4a9c35e8663ee9d9e5"
+  },
+  "炼狱蛛兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/48571/",
+    "originalName": "Arukenimon",
+    "uploader": "Garamonde",
+    "file": "48571/original.png",
+    "frameTable": "48571/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/113.extract.json",
+    "sha256": "5cd6a514fb4826aac3d973dc36d06379ba83f2c1c4426630c9591e2e2e8328f8"
+  },
+  "寄生兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/48553/",
+    "originalName": "Parasimon",
+    "uploader": "redblueyellow",
+    "file": "48553/original.png",
+    "frameTable": "48553/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/218.extract.json",
+    "sha256": "a1dc7d8dfffaf116d476f07fe03ba237314e88749ee3b2247473d3aec7e28c01"
+  },
+  "大古拉龙兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/48670/",
+    "originalName": "WarGrowlmon",
+    "uploader": "Garamonde",
+    "file": "48670/original.png",
+    "frameTable": "48670/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/162.extract.json",
+    "sha256": "e4247475b355210b9c564ddfb759d6561422f7e6ac671b0ae223c05b9e77d5d3"
+  },
+  "大地暴龙兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/48577/",
+    "originalName": "GeoGreymon",
+    "uploader": "redblueyellow",
+    "file": "48577/original.png",
+    "frameTable": "48577/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/072.extract.json",
+    "sha256": "f75e5a8279f44f3f17d6c629a51579ab138712ff9e82f06fcc79e10a9a907b13"
+  },
+  "跃升暴龙兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/48543/",
+    "originalName": "RizeGreymon",
+    "uploader": "redblueyellow",
+    "file": "48543/original.png",
+    "frameTable": "48543/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/154.extract.json",
+    "sha256": "373acce688332f00382fc9a64dcaaf3daa69cf43f07827a528f1c07a7ca70e54"
+  },
+  "锹加兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/41254/",
+    "originalName": "Kuwagamon",
+    "uploader": "redblueyellow",
+    "file": "41254/original.png",
+    "frameTable": "41254/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/084.extract.json",
+    "sha256": "7b9870fe757b1b330d0cb622ed307080554b2df06d98ea63f1e02a878d739ac0"
+  },
+  "大锹加兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/48618/",
+    "originalName": "Okuwamon",
+    "uploader": "redblueyellow",
+    "file": "48618/original.png",
+    "frameTable": "48618/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/149.extract.json",
+    "sha256": "c9e188abd43aa349539f77c25e54fc851d89e6fa07ae35ad88522406a3cc35a6"
+  },
+  "巨大锹加兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/48716/",
+    "originalName": "GranKuwagamon",
+    "uploader": "RadSpyro",
+    "file": "48716/original.png",
+    "frameTable": "48716/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/195.extract.json",
+    "sha256": "24de2eb77afa2d621f65f1f8b6d94a21c7bdf970fdaba04edd68c88cf785572d"
+  },
+  "烂泥兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/48600/",
+    "originalName": "Raremon",
+    "uploader": "redblueyellow",
+    "file": "48600/original.png",
+    "frameTable": "48600/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/092.extract.json",
+    "sha256": "d8220ddcdb6496ad2c4c42e91f8b34f68633a8bcf67a5111c87a861ba34cb2d4"
+  },
+  "独角天马兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/48702/",
+    "originalName": "Unimon",
+    "uploader": "A.J. Nitro",
+    "file": "48702/original.png",
+    "frameTable": "48702/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/106.extract.json",
+    "sha256": "d29ec1772fa18213a7d62c7b64cb2d3f4ebd3ddfb8258e611494290ec636c54f"
+  },
+  "海蝶兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/48531/",
+    "originalName": "MarineAngemon",
+    "uploader": "Garamonde",
+    "file": "48531/original.png",
+    "frameTable": "48531/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/211.extract.json",
+    "sha256": "41ab3a7763b863500d7eba375feeb7fee4443cf536dfb36bd42ef14245306c66"
+  },
+  "血狼兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/48601/",
+    "originalName": "Sangloupmon",
+    "uploader": "redblueyellow",
+    "file": "48601/original.png",
+    "frameTable": "48601/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/096.extract.json",
+    "sha256": "9cb92f8c559477bc8663474240a5e325a7027a5ed81f09371b7619bd8ebe87f9"
+  },
+  "斗牛士兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/48569/",
+    "originalName": "Matadormon",
+    "uploader": "Garamonde",
+    "file": "48569/original.png",
+    "frameTable": "48569/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/139.extract.json",
+    "sha256": "ed11aaf5ba591d18929ea3df0d5d2e380fa039b0bf940221d46d899b732ae867"
+  },
+  "几维鸟兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/41252/",
+    "originalName": "Kiwimon",
+    "uploader": "redblueyellow",
+    "file": "41252/original.png",
+    "frameTable": "41252/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/081.extract.json",
+    "sha256": "47bd22d1b0add2b26a49cfc0705504283496c46d3229b064fd9d1b010b544376"
+  },
+  "华丽兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/41248/",
+    "originalName": "Deramon",
+    "uploader": "redblueyellow",
+    "file": "41248/original.png",
+    "frameTable": "41248/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/119.extract.json",
+    "sha256": "4324960d06f48f1506c1e55d72a19d4a7dd471ed973dd4b5b266f397d1124370"
+  },
+  "镰鼬兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/48579/",
+    "originalName": "Reppamon",
+    "uploader": "redblueyellow",
+    "file": "48579/original.png",
+    "frameTable": "48579/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/093.extract.json",
+    "sha256": "f9b5fbf86d883cac181c84f5101ad5ac7882a37cbe3170939cfcfb1726398717"
+  },
+  "黑巨龙兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/41245/",
+    "originalName": "DarkTyrannomon",
+    "uploader": "redblueyellow",
+    "file": "41245/original.png",
+    "frameTable": "41245/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/060.extract.json",
+    "sha256": "2622c2b7824d47cb40643290783f65924aac004fd0406832caea9bc80fe7ad74"
+  },
+  "鹦鹉兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/41257/",
+    "originalName": "Parrotmon",
+    "uploader": "redblueyellow",
+    "file": "41257/original.png",
+    "frameTable": "41257/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/151.extract.json",
+    "sha256": "ea7a5392370870bcb9ba88ef3751d26202ad535ef0a6a5765028b1384b62c42b"
+  },
+  "凤凰兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/48722/",
+    "originalName": "Phoenixmon",
+    "uploader": "RadSpyro",
+    "file": "48722/original.png",
+    "frameTable": "48722/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/219.extract.json",
+    "sha256": "e637b5c1d3f7a439f41f3957a705f29dc39b5feb5f1c795bb412007ea78653ec"
+  },
+  "百万海龙兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/48628/",
+    "originalName": "MegaSeadramon",
+    "uploader": "redblueyellow",
+    "file": "48628/original.png",
+    "frameTable": "48628/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/143.extract.json",
+    "sha256": "18d8b139fdf902ef483c820f0dc27390d331bfae48b180c315deb48fa4a8e989"
+  },
+  "金属海龙兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/48546/",
+    "originalName": "MetalSeadramon",
+    "uploader": "A.J. Nitro",
+    "file": "48546/original.png",
+    "frameTable": "48546/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/215.extract.json",
+    "sha256": "963af5067bbae2e94464c3814e369b95044129b80ab31722b8c9ba6084b79cd5"
+  },
+  "黏黏兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/48598/",
+    "originalName": "Numemon",
+    "uploader": "redblueyellow",
+    "file": "48598/original.png",
+    "frameTable": "48598/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/088.extract.json",
+    "sha256": "097bc829fa9e918ce1f72bae8f09d75edfe73d8b3ae04d220af49ba2838ce648"
+  },
+  "蛋壳兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/48324/",
+    "originalName": "Digitamamon",
+    "uploader": "redblueyellow",
+    "file": "48324/original.png",
+    "frameTable": "48324/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/120.extract.json",
+    "sha256": "d1161dfbbb377dc5800658b1e75acaa42f32a625b818f4087a1d4793d50ce3d1"
+  },
+  "巨花兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/48534/",
+    "originalName": "Blossomon",
+    "uploader": "redblueyellow",
+    "file": "48534/original.png",
+    "frameTable": "48534/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/117.extract.json",
+    "sha256": "bab15bad025561b124bd175f1057fbffd63a248b78a65aefd3c95e43cc074f86"
+  },
+  "暴龙兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/48406/",
+    "originalName": "Greymon",
+    "uploader": "A.J. Nitro",
+    "file": "48406/original.png",
+    "frameTable": "48406/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/073.extract.json",
+    "sha256": "2b97f4124e646fec2191bcc1e347dde257202e21a8bef431d473fbd996f52cf4"
+  },
+  "无限龙兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/48695/",
+    "originalName": "Machinedramon",
+    "uploader": "redblueyellow",
+    "file": "48695/original.png",
+    "frameTable": "48695/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/209.extract.json",
+    "sha256": "a7ba9208f23d02cb24ecfc5770d74621dbe4a3de706f775840af397f3a2a1124"
+  },
+  "深海巨鲸兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/41258/",
+    "originalName": "Whamon",
+    "uploader": "redblueyellow",
+    "file": "41258/original.png",
+    "frameTable": "41258/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/164.extract.json",
+    "sha256": "2fab806214eda879a6853c2fa5b7a8954ce6d3fa81330cbade5e01bfbc70d92f"
+  },
+  "蛇颈龙兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/48723/",
+    "originalName": "Plesiomon",
+    "uploader": "RadSpyro",
+    "file": "48723/original.png",
+    "frameTable": "48723/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/221.extract.json",
+    "sha256": "851e02ea1db7b2eacd1e6fc6950ba0633eb67b6c4fd9259a7d30b3398660c395"
+  },
+  "鬼怪兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/48533/",
+    "originalName": "Bakemon",
+    "uploader": "redblueyellow",
+    "file": "48533/original.png",
+    "frameTable": "48533/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/057.extract.json",
+    "sha256": "58adc7f093f7ce0084b0adade47d28c6bf528854b9d200488c45f5ac073fe24c"
+  },
+  "死亡兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/48818/",
+    "originalName": "Ghoulmon",
+    "uploader": "Garamonde",
+    "file": "48818/original.png",
+    "frameTable": "48818/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/192.extract.json",
+    "sha256": "66891ee5dd950ef958420a22c55ece413bb60764dfeb0ed616cd524934a51d6e"
+  },
+  "八咫乌兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/48545/",
+    "originalName": "Yatagaramon",
+    "uploader": "redblueyellow",
+    "file": "48545/original.png",
+    "frameTable": "48545/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/165.extract.json",
+    "sha256": "9459357539172677ff1840e218db7b82b0d0f9e8d51bb9ac44d7acf76a0a30b1"
+  },
+  "瓦尔鹏兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/48824/",
+    "originalName": "Varodurumon",
+    "uploader": "redblueyellow",
+    "file": "48824/original.png",
+    "frameTable": "48824/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/229.extract.json",
+    "sha256": "d28b84e1fedae354d7df45166a06c843045481eb74a1cbc74accd1db93ec4801"
+  },
+  "大火车头兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/48450/",
+    "originalName": "Granlocomon",
+    "uploader": "redblueyellow",
+    "file": "48450/original.png",
+    "frameTable": "48450/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/196.extract.json",
+    "sha256": "3a270ebe6311015caf0f62a1faed9e8030456e43e6610421fe0e47705a4d3f4c"
+  },
+  "玄武兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/48449/",
+    "originalName": "Ebonwumon",
+    "uploader": "redblueyellow",
+    "file": "48449/original.png",
+    "frameTable": "48449/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/189.extract.json",
+    "sha256": "54c0d2c6093b8e0a6d0520ca1b3ec392d872f0bdeb2ba580679921e8e1f53506"
+  },
+  "利维鳄兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/48437/",
+    "originalName": "Leviamon",
+    "uploader": "redblueyellow",
+    "file": "48437/original.png",
+    "frameTable": "48437/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/207.extract.json",
+    "sha256": "47d277e6c107c4b945f7f399a363a31d8049db1bbe7a39bff9f23faac25c62ac"
+  },
+  "青龙兽": {
+    "source": "https://www.spriters-resource.com/ds_dsi/dgmnworldds/asset/48331/",
+    "originalName": "Azulongmon",
+    "uploader": "RadSpyro",
+    "file": "48331/original.png",
+    "frameTable": "48331/frames.extract.json",
+    "frameTableSource": "https://github.com/netraular/DigimonWorldSpriteManager/blob/06b3c4df09dc5eeaccee511d731f37947b1c8259/specs/digimon/168.extract.json",
+    "sha256": "a7d9b76761d42a2cbe9982b41150dee19f3b53eb0eb75904a50c8f5db586dc9d"
+  }
+}
